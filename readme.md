@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: Rafael Proaño
+- **Carrera**: Ing. Software
+- **Fecha de entrega**: 16 de Octubre, 2025
 
 ---
 
